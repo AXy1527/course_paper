@@ -61,4 +61,3 @@ Upon successful execution, the script will output the convergence losses and sav
 
 ## 🤝 Acknowledgments
 Special thanks to the instructors and teaching assistants of **CSMATH 2026** for their inspiring lectures and guidance.
-```
